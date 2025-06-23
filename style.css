@@ -1,0 +1,38 @@
+/* Imperio: fondo rojo */
+.imperio {
+  background-color: red;
+}
+
+/* Rebeldes: fondo azul */
+.rebeldes {
+  background-color: blue;
+  color: white;
+}
+
+/* ID para Darth Vader: texto más grande */
+#vader {
+  font-size: 1.5em;
+}
+
+/* ID para Luke: texto en itálica */
+#luke {
+  font-style: italic;
+}
+
+/* Soldados: borde a rayas y mayor espacio entre letras */
+.soldados {
+  border: 3px dashed black;
+  padding: 5px;
+  margin: 5px 0;
+  letter-spacing: 2px;
+}
+
+/* Apoyo: centrar texto */
+.apoyo {
+  text-align: center;
+}
+
+/* Naves: texto en mayúscula */
+.naves {
+  text-transform: uppercase;
+}
